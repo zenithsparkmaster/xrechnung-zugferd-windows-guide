@@ -1,5 +1,6 @@
 # XRechnung & ZUGFeRD ohne Abo – Billfix E-Rechnung für Windows
 
+
 Es gibt Veränderungen in der Geschäftswelt, die kommen schleichend – und es gibt gesetzliche Umbrüche, die schlagen ein wie ein Blitz. Die flächendeckende Einführung der E-Rechnungspflicht im deutschen B2B-Verkehr gehört zweifellos zur zweiten Kategorie. Was jahrelang nur für Lieferanten des Bundes und öffentlicher Auftraggeber galt, betrifft nun schlagartig jeden Selbstständigen, jeden Freiberufler, jeden Handwerker und jedes kleine Unternehmen in Deutschland.
 
 Wer dachte, eine einfache PDF-Datei per E-Mail zu versenden sei auch in Zukunft ausreichend, wird schnell eines Bessere belehrt. Der Gesetzgeber fordert strukturierte, elektronische Datenformate. Wer diese nicht liefern kann, riskiert Zahlungsverzögerungen, verärgerte Geschäftspartner oder im schlimmsten Fall echte Abrechnungsprobleme mit dem Finanzamt.
